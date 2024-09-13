@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\Learning\\signalr\\ChatApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Chat-Api\\ChatHub.cs",
+              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\ChatHub.cs",
+              "RelativeToolTip": "Chat-Api\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:24:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Chat-Api\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Chat-Api\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:23:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Program.cs",
+              "RelativeDocumentMoniker": "Chat-Api\\Program.cs",
+              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Program.cs",
+              "RelativeToolTip": "Chat-Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:23:45.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

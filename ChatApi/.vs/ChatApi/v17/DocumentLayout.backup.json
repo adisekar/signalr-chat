@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\Learning\\signalr\\ChatApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\repositories\\chatmemoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\repositories\\chatmemoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|c:\\dev\\learning\\signalr\\chatapi\\chat-api\\repositories\\ichatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6441C709-6D97-463E-B975-CB8899187664}|Chat-Api\\Chat-Api.csproj|solutionrelative:chat-api\\repositories\\ichatrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Program.cs",
-              "RelativeDocumentMoniker": "Chat-Api\\Program.cs",
-              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Program.cs",
-              "RelativeToolTip": "Chat-Api\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:12:50.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChatMemoryRepo.cs",
-              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Repositories\\ChatMemoryRepo.cs",
-              "RelativeDocumentMoniker": "Chat-Api\\Repositories\\ChatMemoryRepo.cs",
-              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Repositories\\ChatMemoryRepo.cs",
-              "RelativeToolTip": "Chat-Api\\Repositories\\ChatMemoryRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:11:12.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IChatRepo.cs",
-              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Repositories\\IChatRepo.cs",
-              "RelativeDocumentMoniker": "Chat-Api\\Repositories\\IChatRepo.cs",
-              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Repositories\\IChatRepo.cs",
-              "RelativeToolTip": "Chat-Api\\Repositories\\IChatRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:04:26.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatController.cs",
-              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Controllers\\ChatController.cs",
-              "RelativeDocumentMoniker": "Chat-Api\\Controllers\\ChatController.cs",
-              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\Controllers\\ChatController.cs",
-              "RelativeToolTip": "Chat-Api\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCMAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T19:51:59.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\ChatHub.cs",
-              "RelativeDocumentMoniker": "Chat-Api\\ChatHub.cs",
-              "ToolTip": "C:\\dev\\Learning\\signalr\\ChatApi\\Chat-Api\\ChatHub.cs",
-              "RelativeToolTip": "Chat-Api\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T18:57:36.426Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
